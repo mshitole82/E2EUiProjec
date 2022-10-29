@@ -1,0 +1,5 @@
+18:17:23.450 [main] INFO  resources.base - Navigated to Home page
+18:17:23.932 [main] INFO  resources.base - Navigation Bar is displayed
+18:17:37.045 [main] INFO  resources.base - Restrcited User
+18:17:52.286 [main] INFO  resources.base - Non restricted user
+18:17:56.038 [main] INFO  resources.base - Successfully validated Text message
